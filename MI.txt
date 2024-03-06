@@ -1,0 +1,9 @@
+<!DOCTYPE html>: Declares the document type and version of HTML.
+<html lang="en">: Defines the root element of the HTML document with the language attribute set to English.
+<head>: Contains meta-information about the HTML document, such as character encoding and viewport settings.
+<title>: Sets the title of the webpage, which appears in the browser tab or window title bar.
+<body>: Contains the visible content of the webpage.
+<header>: Represents the introductory content of a section or page, typically containing headings or introductory material.
+<h1>: Defines the main heading of the page.
+<main>: Represents the main content of the webpage.
+<p>: Defines a paragraph of text
